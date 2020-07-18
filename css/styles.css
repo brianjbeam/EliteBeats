@@ -29,7 +29,7 @@ header h2 {
 }
 
 footer {
-  background-color:  rgb(151, 0, 0);
+  background-color:  rgb(134, 0, 0);
   padding: 20px 0;
   text-emphasis-color: white;
 }
@@ -52,7 +52,7 @@ footer {
 }
 
 .carousel {
-  border: solid black;
+  width: 100%;
 }
 
 .card3 {

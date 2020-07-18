@@ -1,3 +1,57 @@
-.cardw {
-  width: 50rem;
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+h1,
+h2 {
+  font-family: "Gill Sans", fantasy;
+  font-variant: small-caps;
+  color: rgb(141, 0, 0);
+}
+h3 {
+  font-family: "Gill Sans", fantasy;
+  font-variant: small-caps;
+}
+h4 {
+  font-weight: 350;
+}
+
+h5 {
+  font-family: "Gill Sans", fantasy;
+  font-size: 40px;
+  font-weight: 700;
+  font-variant: small-caps;
+  font-stretch: expanded;
+}
+
+header h2 {
+  color: rgb(83, 83, 83);
+}
+
+footer {
+  background-color: rgb(134, 0, 0);
+  padding: 20px 0;
+  text-emphasis-color: white;
+}
+
+.jumbotron {
+  margin: 0;
+  background-color: white;
+  color: black;
+}
+
+.navbar {
+  background-color: rgb(134, 0, 0);
+}
+
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel {
+  border: solid black;
+}
+
+.card3 {
+  border: none;
 }

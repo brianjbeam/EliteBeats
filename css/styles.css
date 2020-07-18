@@ -40,6 +40,7 @@ footer {
   color: black;
   padding-top: 0;
   padding-bottom: 0;
+  
 }
 
 .navbar {
@@ -56,4 +57,12 @@ footer {
 
 .card3 {
   border: none;
+}
+
+.smalllogo {
+@media only screen and (max-width: 600px) {
+  div.example {
+    display: none;
+  }
+}
 }
